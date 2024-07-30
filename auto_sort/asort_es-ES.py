@@ -14,7 +14,7 @@ import re
 
 README_FILE = '../README_es-ES.md'
 TEMP_FILE = 'temp_es-ES.md'
-
+# just for testing purpose
 # Only works for items between BEGIN and END.
 BEGIN = '## Aplicaciones'
 END = '## Configurar'
