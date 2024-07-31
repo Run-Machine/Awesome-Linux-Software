@@ -16,6 +16,7 @@ README_FILE = '../README_es-ES.md'
 TEMP_FILE = 'temp_es-ES.md'
 # just for testing purpose
 # Only works for items between BEGIN and END.
+# for testing purpose
 BEGIN = '## Aplicaciones'
 END = '## Configurar'
 
